@@ -1,1 +1,2 @@
-# test1
+# Build and run tests
+mvn clean install
